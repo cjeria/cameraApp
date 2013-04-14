@@ -2,3 +2,4 @@ body {width: 100%;}
 canvas {display: none;}
 .wrapper{margin-top:40px;}
 .wrapper .page{width:1170px; margin:0 auto;}
+.row{margin-top:100px;}
